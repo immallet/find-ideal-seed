@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa",
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica",
+        "active": true
+      },
+      {
+        "type": "sex",
+        "value": "Feminized"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica",
+        "active": true
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 2,
+      "name": "Estados Unidos"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Sativa",
+        "active": true
+      },
+      {
+        "type": "sex",
+        "value": "Feminized"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "sex",
+        "value": "Feminized"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "sex",
+        "value": "Feminized"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 2,
+      "name": "Estados Unidos"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 2,
+      "name": "Estados Unidos"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "sex",
+        "value": "Feminized"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 2,
+      "name": "Estados Unidos"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "sex",
+        "value": "Feminized"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "sex",
+        "value": "Feminized"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 2,
+      "name": "Estados Unidos"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "sex",
+        "value": "Feminized"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "sex",
+        "value": "Feminized"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 2,
+      "name": "Estados Unidos"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Auto Critical Orange Punch",
+    "country": {
+      "id": 1,
+      "name": "Colombia"
+    },
+    "bankName": "DUTCH PASSION",
+    "coverImage": "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+    "images": [
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950622073_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125125950618188_.jpg",
+      "https://www.alchimiaweb.com/images/xl/auto-critical-orange-punch_10251_20221125130009062744_.jpg"
+    ],
+    "tags": [
+      {
+        "type": "subspecie",
+        "value": "Indica"
+      },
+      {
+        "type": "subspecie",
+        "value": "Sativa"
+      },
+      {
+        "type": "growCycle",
+        "value": "10"
+      }
+    ]
+  }
+]
